@@ -1,0 +1,8 @@
+{
+  "name": "Telebirr super app",
+  "description": "A professional, all-in-one SuperApp featuring a sleek recipient input field for seamless and secure mobile money transfers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
